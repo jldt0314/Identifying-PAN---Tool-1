@@ -1,0 +1,16 @@
+D:\VS Com Files\PAN_IDENTIFIER\bin\Debug\net8.0-windows\PAN_IDENTIFIER.exe
+D:\VS Com Files\PAN_IDENTIFIER\bin\Debug\net8.0-windows\PAN_IDENTIFIER.deps.json
+D:\VS Com Files\PAN_IDENTIFIER\bin\Debug\net8.0-windows\PAN_IDENTIFIER.runtimeconfig.json
+D:\VS Com Files\PAN_IDENTIFIER\bin\Debug\net8.0-windows\PAN_IDENTIFIER.dll
+D:\VS Com Files\PAN_IDENTIFIER\bin\Debug\net8.0-windows\PAN_IDENTIFIER.pdb
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.Form1.resources
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.csproj.GenerateResource.cache
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.AssemblyInfoInputs.cache
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.AssemblyInfo.cs
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.csproj.CoreCompileInputs.cache
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.dll
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\refint\PAN_IDENTIFIER.dll
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.pdb
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\PAN_IDENTIFIER.genruntimeconfig.cache
+D:\VS Com Files\PAN_IDENTIFIER\obj\Debug\net8.0-windows\ref\PAN_IDENTIFIER.dll

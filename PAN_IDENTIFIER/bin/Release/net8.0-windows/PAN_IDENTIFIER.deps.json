@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PAN_IDENTIFIER/1.0.0": {
+        "runtime": {
+          "PAN_IDENTIFIER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PAN_IDENTIFIER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
